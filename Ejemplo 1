@@ -1,0 +1,109 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.98.0">
+    <title>Orientador en el Sistema Bancario</title>
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/blog/">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="#" href="MasInformacion.css">
+</head>
+    
+<link href="/docs/5.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+    <!-- Favicons -->
+<link rel="apple-touch-icon" href="/docs/5.2/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" href="/docs/5.2/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/docs/5.2/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="manifest" href="/docs/5.2/assets/img/favicons/manifest.json">
+<link rel="mask-icon" href="/docs/5.2/assets/img/favicons/safari-pinned-tab.svg" color="#712cf9">
+<link rel="icon" href="/docs/5.2/assets/img/favicons/favicon.ico">
+<meta name="theme-color" content="#712cf9">
+    
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="blog.css" rel="stylesheet">
+  </head>
+  <style type="text/css">
+      body{
+        background-color: orange;
+      }
+      p{
+        font-size: 20px;
+      }
+      h1{
+          color: blue;
+          text-decoration: underline;
+      }
+  </style>
+  <body>
+
+<main class="container">
+  <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
+    <div class="col-md-6 px-0">
+      <h1 class="display-4 fst-italic">ORIENTADOR EN EL SISTEMA BANCARIO:</h1>
+      <p class="lead my-3">Esta iniciativa busca dar la oportunidad de acceder a una educación de calidad a talentosos jóvenes del Perú de escasos recursos económicos y brindales herramientas educativas para obtener mejores logros de aprendizaje.</p>
+    </div>
+  </div>
+
+  <div class="row g-5">
+    <div class="col-md-8">
+
+      <article class="blog-post">
+        <h2 class="blog-post-title mb-1">¿Qué es lo que hace un orientador del sistema bancario?</h2>
+
+        <p>Primero que todo, la experiencia de cliente está realmente en el centro de las prioridades de la empresa. No constituye una mera iniciativa aislada e interesante con miras a mejorar la satisfacción de su cliente final. Implica contar con una auténtica estrategia orientada al cliente que proviene de la dirección de la organización y todos los integrantes la hacen suya, de tal manera que forma parte de la cultura organizacional. Por ello, una buena orientación es importante.</p>
+        <hr>
+        <h2>4 caracteristicas importantes para ser un buen Orientador Bancario:</h2>
+        <h4>Colaboradores alineados con la orientación al cliente: </h4>
+        <p>Finalmente, son personas quienes están en contacto con los clientes y es sobre la base de la experiencia con ellas que el cliente tendrá su experiencia. Se podrá decir que la experiencia también es con el producto, pero si se tiene una mala experiencia con el producto, una buena experiencia de reclamo y sustitución, ejecutada por personas, puede mejorar la relación. Las organizaciones que tienen al cliente como el centro de su accionar hacen que sus colaboradores vivan ese compromiso. Adicionalmente, la labor de esas personas debe ser gestionada, medida y recompensada en función de su contribución a la experiencia del cliente.</p>
+        <h4>Conocer al cliente y su entorno:</h4>
+        <p>Si una compañía desea ser querida y aceptada por sus clientes como un amigo, debe conocerlos y tratarlos como tales. Para ello es preciso dedicar mucho esfuerzo en escuchar, conocer y comprender a sus clientes. Es importante detectar las necesidades y las prioridades de los clientes, para proceder a buscar la mejor opción para satisfacerlas. La búsqueda de este conocimiento no es exclusividad del área de marketing de la compañía; es parte de la cultura de la organización.</p>
+        <h4>La innovación y la tecnología al servicio del cliente:</h4>
+        <p>Ciertamente, las grandes compañías cuentan con mayores recursos para invertir en herramientas tecnológicas para ponerlas al servicio de la experiencia del cliente. Pero las empresas más pequeñas pueden acceder a fondos gubernamentales destinados a impulsar la innovación tecnológica. Siempre hay que estimular entre los colaboradores un espíritu innovador que tenga como objetivo encontrar nuevas maneras de emplear los medios disponibles para lograr la diferenciación y la creación de valor para los clientes.</p>
+        <h4>Comunicar al cliente sobre los beneficios a los que accede:</h4>
+        <p>Es muy importante incorporar en la estrategia comunicacional de la organización herramientas a través de las cuales se haga saber a los clientes los beneficios que la organización les aporta: reducción de costos, mejora en la calidad del producto, innovaciones, desarrollo tecnológico, etc. Luego también hay que medir la satisfacción del cliente ante estas mejoras.</p>
+    </article>
+
+      <nav class="blog-pagination" aria-label="Pagination">
+        <a class="btn btn-outline-primary rounded-pill" href="#">Volver al principio</a>
+      </nav>
+    </div>
+
+         <!-- NO EDITAR -->
+    
+    <div class="col-md-4">
+      <div class="position-sticky" style="top: 2rem;">
+        <div class="p-4 mb-3 bg-light rounded">
+          <h4 class="fst-italic">ACERCA DE NUESTRO SERVICIO:</h4>
+          <p class="mb-0">Nuestros cursos brindarán la oportunidad de acceder al rubro bancario destinado a todos los jovenes peruanos y así brindar nuevas herramientas educativas para obtener un optimo aprendizaje. Aquí podrás conocer la variedad de nuestro cursos que te brindamos, no pierdas esta oportunidad de inscribirte ahora.</p>
+        </div>
+
+         <!-- NO EDITAR -->
+        <div class="p-4">
+          <h4 class="fst-italic">Nuestra Pagina Web</h4>
+          <ol class="list-unstyled mb-0">
+            <li><a href="https://www.viabcp.com/">Pagina Principal</a></li>
+            <li><a href="https://www.viabcp.com/beneficios">Beneficios</a></li>
+            <li><a href="https://www.viabcp.com/ayuda-bcp">Ayuda</a></li>
+          </ol>
+        </div>
+
+        <div class="p-4">
+          <h4 class="fst-italic">Redes Sociales</h4>
+          <ol class="list-unstyled">
+            <li><a href="https://www.instagram.com/bcpbancodecredito/">Instagram</a></li>
+            <li><a href="https://twitter.com/BCPComunica">Twitter</a></li>
+            <li><a href="https://www.facebook.com/bancodecreditobcp">Facebook</a></li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+  </body>
+</html>
